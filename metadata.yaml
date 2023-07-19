@@ -1,0 +1,38 @@
+_repo: The-Turk-and-his-lost-provinces-b-Greece-Bulgaria-Servia-Bosnia_71013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curtis, William Eleroy
+    alias: Curtis, Wm. E. (William Eleroy)
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '3885'
+    url: http://www.gutenberg.org/2009/agents/3885
+    wikipedia: https://en.wikipedia.org/wiki/William_Eleroy_Curtis
+description: ''
+edition_note: 2nd edition
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71013'
+  lccn: '03010347'
+language: en
+pgterms:marc905: 20210501084728curtis
+pgterms:marc906: '1903'
+pgterms:marc907: us
+production_note: Peter Becker, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bF.H. Revell company, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Description and travel'
+- !lcsh 'Serbia -- Description and travel'
+- !lcsh 'Bulgaria -- Description and travel'
+- !lcsh 'Eastern question (Balkan)'
+- !lcsh 'Bosnia and Herzegovina -- Description and travel'
+- !lcc 'D'
+- GITenberg
+title: 'The Turk and his lost provinces : $b Greece, Bulgaria, Servia, Bosnia'
+url: http://www.gutenberg.org/ebooks/71013
